@@ -9,3 +9,15 @@
 	)
 	map_name = "pandamonium"
 	key = "pandamonium"
+
+/datum/lazy_template/deathmatch/hammerbox
+	name = "Hammerbox"
+	map_dir = "fulp_modules/mapping/deathmatch/maps"
+	desc = "Only one apprentice can become a wizard!"
+	max_players = 8
+	allowed_loadouts = list(
+		/datum/outfit/deathmatch_loadout/hammerboxblue,
+		/datum/outfit/deathmatch_loadout/hammerboxred,
+	)
+	map_name = "hammerbox"
+	key = "hammerbox"
