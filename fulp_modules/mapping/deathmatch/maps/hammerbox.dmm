@@ -25,10 +25,12 @@
 /turf/open/lava,
 /area/deathmatch/fullbright)
 "g" = (
-/obj/structure/stone_tile/surrounding_tile{
-	dir = 8
+/obj/item/organ/internal/cyberimp/brain/anti_drop,
+/obj/effect/decal/cleanable/glitter/pink,
+/obj/effect/turf_decal/siding/dark_red{
+	dir = 9
 	},
-/turf/open/chasm/true,
+/turf/open/floor/carpet/red,
 /area/deathmatch/fullbright)
 "h" = (
 /obj/structure/stone_tile/block,
@@ -47,9 +49,20 @@
 	},
 /turf/open/lava,
 /area/deathmatch/fullbright)
+"m" = (
+/obj/effect/decal/cleanable/glitter/pink,
+/obj/effect/turf_decal/siding/dark_red{
+	dir = 1
+	},
+/turf/open/floor/carpet/red,
+/area/deathmatch/fullbright)
 "o" = (
 /obj/structure/stone_tile/surrounding,
 /turf/open/lava,
+/area/deathmatch/fullbright)
+"p" = (
+/obj/effect/decal/cleanable/glitter/pink,
+/turf/open/floor/engine/cult,
 /area/deathmatch/fullbright)
 "q" = (
 /obj/structure/stone_tile{
@@ -76,8 +89,15 @@
 /turf/open/lava,
 /area/deathmatch/fullbright)
 "u" = (
-/obj/structure/bonfire/prelit,
-/turf/open/floor/engine/cult,
+/obj/structure/stone_tile/slab,
+/turf/open/lava,
+/area/deathmatch/fullbright)
+"v" = (
+/obj/effect/decal/cleanable/glitter/pink,
+/obj/effect/turf_decal/siding/dark_red{
+	dir = 4
+	},
+/turf/open/floor/carpet/red,
 /area/deathmatch/fullbright)
 "w" = (
 /obj/effect/landmark/deathmatch_player_spawn,
@@ -99,9 +119,10 @@
 /obj/structure/stone_tile,
 /turf/open/lava,
 /area/deathmatch/fullbright)
-"D" = (
-/obj/structure/stone_tile/surrounding_tile,
-/turf/open/chasm/true,
+"C" = (
+/obj/structure/showcase/wizard,
+/obj/effect/decal/cleanable/glitter/pink,
+/turf/open/floor/carpet/red,
 /area/deathmatch/fullbright)
 "F" = (
 /obj/structure/stone_tile/block{
@@ -114,20 +135,20 @@
 /turf/open/lava,
 /area/deathmatch/fullbright)
 "I" = (
-/obj/structure/stone_tile/surrounding_tile{
-	dir = 1
+/obj/structure/emergency_shield/cult/barrier{
+	max_integrity = 99999;
+	resistance_flags = 0;
+	damage_deflection = 100;
+	density = 1
 	},
-/turf/open/chasm/true,
-/area/deathmatch/fullbright)
-"J" = (
-/obj/structure/stone_tile/surrounding_tile{
-	dir = 4
-	},
-/turf/open/chasm/true,
-/area/deathmatch/fullbright)
-"L" = (
-/obj/item/organ/internal/cyberimp/brain/anti_drop,
 /turf/open/floor/engine/cult,
+/area/deathmatch/fullbright)
+"K" = (
+/obj/effect/decal/cleanable/glitter/pink,
+/obj/effect/turf_decal/siding/dark_red{
+	dir = 5
+	},
+/turf/open/floor/carpet/red,
 /area/deathmatch/fullbright)
 "M" = (
 /obj/machinery/field/generator/starts_on{
@@ -140,13 +161,31 @@
 "N" = (
 /turf/open/chasm/true,
 /area/deathmatch/fullbright)
+"O" = (
+/obj/effect/decal/cleanable/glitter/pink,
+/obj/effect/turf_decal/siding/dark_red{
+	dir = 6
+	},
+/turf/open/floor/carpet/red,
+/area/deathmatch/fullbright)
+"P" = (
+/obj/effect/decal/cleanable/glitter/pink,
+/obj/effect/turf_decal/siding/dark_red{
+	dir = 8
+	},
+/turf/open/floor/carpet/red,
+/area/deathmatch/fullbright)
 "R" = (
-/obj/structure/emergency_shield/cult/barrier,
-/turf/open/floor/engine/cult,
+/obj/effect/decal/cleanable/glitter/pink,
+/obj/effect/turf_decal/siding/dark_red,
+/turf/open/floor/carpet/red,
 /area/deathmatch/fullbright)
 "S" = (
-/obj/structure/showcase/wizard,
-/turf/open/floor/engine/cult,
+/obj/effect/decal/cleanable/glitter/pink,
+/obj/effect/turf_decal/siding/dark_red{
+	dir = 10
+	},
+/turf/open/floor/carpet/red,
 /area/deathmatch/fullbright)
 "W" = (
 /obj/structure/stone_tile,
@@ -396,6 +435,7 @@ f
 f
 f
 f
+Y
 f
 f
 f
@@ -403,6 +443,7 @@ f
 f
 f
 f
+Y
 f
 f
 f
@@ -410,9 +451,7 @@ f
 f
 f
 f
-f
-f
-f
+Y
 f
 f
 f
@@ -439,6 +478,7 @@ a
 a
 a
 a
+u
 a
 a
 a
@@ -446,6 +486,7 @@ a
 a
 a
 a
+u
 a
 a
 a
@@ -453,9 +494,7 @@ a
 a
 a
 a
-a
-a
-a
+u
 a
 a
 a
@@ -482,6 +521,7 @@ x
 x
 x
 x
+Y
 x
 x
 x
@@ -489,6 +529,7 @@ x
 x
 x
 x
+Y
 x
 x
 x
@@ -496,9 +537,7 @@ x
 x
 x
 x
-x
-x
-x
+Y
 x
 x
 x
@@ -690,9 +729,9 @@ N
 N
 N
 M
-h
-a
-F
+b
+u
+b
 i
 i
 i
@@ -718,9 +757,9 @@ i
 i
 i
 i
-h
-a
-F
+b
+u
+b
 M
 N
 N
@@ -741,21 +780,21 @@ i
 i
 i
 b
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
 b
 i
 i
@@ -784,7 +823,7 @@ i
 i
 i
 b
-R
+I
 N
 N
 N
@@ -798,7 +837,7 @@ N
 N
 N
 N
-R
+I
 b
 i
 i
@@ -827,7 +866,7 @@ i
 i
 i
 b
-R
+I
 N
 N
 N
@@ -841,7 +880,7 @@ N
 N
 N
 N
-R
+I
 b
 i
 i
@@ -870,7 +909,7 @@ w
 i
 i
 b
-R
+I
 N
 N
 N
@@ -884,7 +923,7 @@ N
 N
 N
 N
-R
+I
 b
 i
 i
@@ -913,7 +952,7 @@ i
 i
 i
 b
-R
+I
 N
 N
 N
@@ -927,7 +966,7 @@ N
 N
 N
 N
-R
+I
 b
 i
 i
@@ -956,21 +995,21 @@ i
 i
 i
 b
-R
+I
 N
 N
 N
 N
-N
-J
-u
-g
-N
-N
-N
+p
+p
+p
+p
+p
 N
 N
-R
+N
+N
+I
 b
 i
 i
@@ -999,21 +1038,21 @@ i
 i
 i
 b
-R
+I
 N
 N
 N
 N
-J
-L
-i
-i
+p
 g
+P
+S
+p
 N
 N
 N
 N
-R
+I
 b
 i
 i
@@ -1034,37 +1073,37 @@ N
 N
 N
 M
-h
-a
-F
+b
+u
+b
 Y
 Y
 Y
 Y
 o
+I
+N
+N
+N
+N
+p
+m
+C
 R
+p
 N
 N
 N
 N
-u
-i
-S
-i
-u
-N
-N
-N
-N
-R
+I
 o
 Y
 Y
 Y
 Y
-h
-a
-F
+b
+u
+b
 M
 N
 N
@@ -1085,21 +1124,21 @@ i
 i
 i
 b
-R
+I
+N
+N
+N
+N
+p
+K
+v
+O
+p
 N
 N
 N
 N
 I
-i
-i
-i
-D
-N
-N
-N
-N
-R
 b
 i
 i
@@ -1128,21 +1167,21 @@ i
 i
 i
 b
-R
+I
 N
+N
+N
+N
+p
+p
+p
+p
+p
 N
 N
 N
 N
 I
-u
-D
-N
-N
-N
-N
-N
-R
 b
 i
 i
@@ -1171,7 +1210,7 @@ i
 i
 i
 b
-R
+I
 N
 N
 N
@@ -1185,7 +1224,7 @@ N
 N
 N
 N
-R
+I
 b
 i
 i
@@ -1214,7 +1253,7 @@ w
 i
 i
 b
-R
+I
 N
 N
 N
@@ -1228,7 +1267,7 @@ N
 N
 N
 N
-R
+I
 b
 i
 i
@@ -1257,7 +1296,7 @@ i
 i
 i
 b
-R
+I
 N
 N
 N
@@ -1271,7 +1310,7 @@ N
 N
 N
 N
-R
+I
 b
 i
 i
@@ -1300,7 +1339,7 @@ i
 i
 i
 b
-R
+I
 N
 N
 N
@@ -1314,7 +1353,7 @@ N
 N
 N
 N
-R
+I
 b
 i
 i
@@ -1343,21 +1382,21 @@ i
 i
 i
 b
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
 b
 i
 i
@@ -1378,9 +1417,9 @@ N
 N
 N
 M
-h
-a
-F
+b
+u
+b
 i
 i
 i
@@ -1406,9 +1445,9 @@ i
 i
 i
 i
-h
-a
-F
+b
+u
+b
 M
 N
 N
@@ -1600,6 +1639,7 @@ f
 f
 f
 f
+Y
 f
 f
 f
@@ -1607,6 +1647,7 @@ f
 f
 f
 f
+Y
 f
 f
 f
@@ -1614,9 +1655,7 @@ f
 f
 f
 f
-f
-f
-f
+Y
 f
 f
 f
@@ -1643,6 +1682,7 @@ a
 a
 a
 a
+u
 a
 a
 a
@@ -1650,6 +1690,7 @@ a
 a
 a
 a
+u
 a
 a
 a
@@ -1657,9 +1698,7 @@ a
 a
 a
 a
-a
-a
-a
+u
 a
 a
 a
@@ -1686,6 +1725,7 @@ x
 x
 x
 x
+Y
 x
 x
 x
@@ -1693,6 +1733,7 @@ x
 x
 x
 x
+Y
 x
 x
 x
@@ -1700,9 +1741,7 @@ x
 x
 x
 x
-x
-x
-x
+Y
 x
 x
 x
