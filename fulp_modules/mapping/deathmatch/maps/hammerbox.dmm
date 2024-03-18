@@ -25,7 +25,6 @@
 /turf/open/lava,
 /area/deathmatch/fullbright)
 "g" = (
-/obj/item/organ/internal/cyberimp/brain/anti_drop,
 /obj/effect/decal/cleanable/glitter/pink,
 /obj/effect/turf_decal/siding/dark_red{
 	dir = 9
@@ -43,7 +42,9 @@
 /obj/structure/stone_tile/block{
 	dir = 1
 	},
-/obj/structure/stone_tile,
+/obj/structure/stone_tile{
+	dir = 8
+	},
 /turf/open/lava,
 /area/deathmatch/fullbright)
 "l" = (
@@ -62,6 +63,13 @@
 	dir = 1
 	},
 /turf/open/floor/carpet/red,
+/area/deathmatch/fullbright)
+"n" = (
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/obj/structure/stone_tile,
+/turf/open/lava,
 /area/deathmatch/fullbright)
 "o" = (
 /obj/structure/stone_tile/surrounding,
@@ -83,6 +91,13 @@
 	},
 /turf/open/lava,
 /area/deathmatch/fullbright)
+"s" = (
+/obj/structure/stone_tile/block,
+/obj/structure/stone_tile{
+	dir = 4
+	},
+/turf/open/lava,
+/area/deathmatch/fullbright)
 "t" = (
 /obj/structure/stone_tile{
 	dir = 4
@@ -96,11 +111,9 @@
 /turf/open/lava,
 /area/deathmatch/fullbright)
 "u" = (
-/obj/structure/stone_tile/block{
-	dir = 4
-	},
+/obj/structure/stone_tile/block,
 /obj/structure/stone_tile{
-	dir = 4
+	dir = 1
 	},
 /turf/open/lava,
 /area/deathmatch/fullbright)
@@ -123,10 +136,10 @@
 /area/deathmatch/fullbright)
 "y" = (
 /obj/structure/stone_tile/block{
-	dir = 1
+	dir = 8
 	},
 /obj/structure/stone_tile{
-	dir = 8
+	dir = 1
 	},
 /turf/open/lava,
 /area/deathmatch/fullbright)
@@ -151,11 +164,6 @@
 	},
 /turf/open/lava,
 /area/deathmatch/fullbright)
-"G" = (
-/obj/structure/stone_tile/slab,
-/obj/structure/trap/chill,
-/turf/open/lava,
-/area/deathmatch/fullbright)
 "H" = (
 /obj/structure/stone_tile,
 /turf/open/lava,
@@ -169,6 +177,13 @@
 	},
 /turf/open/floor/engine/cult,
 /area/deathmatch/fullbright)
+"J" = (
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/structure/stone_tile,
+/turf/open/lava,
+/area/deathmatch/fullbright)
 "K" = (
 /obj/effect/decal/cleanable/glitter/pink,
 /obj/effect/turf_decal/siding/dark_red{
@@ -178,10 +193,10 @@
 /area/deathmatch/fullbright)
 "L" = (
 /obj/structure/stone_tile/block{
-	dir = 8
+	dir = 4
 	},
 /obj/structure/stone_tile{
-	dir = 1
+	dir = 4
 	},
 /turf/open/lava,
 /area/deathmatch/fullbright)
@@ -213,10 +228,8 @@
 /turf/open/floor/carpet/red,
 /area/deathmatch/fullbright)
 "Q" = (
-/obj/structure/stone_tile/block{
-	dir = 8
-	},
-/obj/structure/stone_tile,
+/obj/structure/stone_tile/slab,
+/obj/structure/trap/chill,
 /turf/open/lava,
 /area/deathmatch/fullbright)
 "R" = (
@@ -231,7 +244,7 @@
 	},
 /turf/open/floor/carpet/red,
 /area/deathmatch/fullbright)
-"U" = (
+"T" = (
 /obj/structure/stone_tile/block{
 	dir = 4
 	},
@@ -250,26 +263,12 @@
 	},
 /turf/open/lava,
 /area/deathmatch/fullbright)
-"X" = (
-/obj/structure/stone_tile/block,
-/obj/structure/stone_tile{
-	dir = 4
-	},
-/turf/open/lava,
-/area/deathmatch/fullbright)
 "Y" = (
 /obj/structure/stone_tile/block{
 	dir = 8
 	},
 /obj/structure/stone_tile/block{
 	dir = 4
-	},
-/turf/open/lava,
-/area/deathmatch/fullbright)
-"Z" = (
-/obj/structure/stone_tile/block,
-/obj/structure/stone_tile{
-	dir = 1
 	},
 /turf/open/lava,
 /area/deathmatch/fullbright)
@@ -401,25 +400,25 @@ f
 f
 f
 f
-u
+L
 Y
-U
+T
 f
 f
 f
 f
 f
-u
+L
 Y
-U
+T
 f
 f
 f
 f
 f
-u
+L
 Y
-U
+T
 f
 f
 f
@@ -441,7 +440,7 @@ a
 a
 a
 F
-G
+Q
 h
 a
 a
@@ -449,7 +448,7 @@ a
 a
 a
 F
-G
+Q
 h
 a
 a
@@ -457,7 +456,7 @@ a
 a
 a
 F
-G
+Q
 h
 a
 a
@@ -479,25 +478,25 @@ q
 x
 x
 x
-L
+y
 Y
-Q
+n
 x
 x
 x
 x
 x
-L
+y
 Y
-Q
+n
 x
 x
 x
 x
 x
-L
+y
 Y
-Q
+n
 x
 x
 x
@@ -629,9 +628,9 @@ e
 e
 N
 i
-X
+s
 x
-y
+j
 i
 i
 i
@@ -657,9 +656,9 @@ o
 i
 i
 i
-X
+s
 x
-y
+j
 i
 N
 e
@@ -669,7 +668,7 @@ e
 N
 M
 b
-G
+Q
 b
 i
 i
@@ -697,7 +696,7 @@ i
 i
 i
 b
-G
+Q
 b
 M
 N
@@ -707,9 +706,9 @@ e
 e
 N
 i
-Z
+u
 f
-j
+J
 i
 i
 i
@@ -735,9 +734,9 @@ b
 i
 i
 i
-Z
+u
 f
-j
+J
 i
 N
 e
@@ -941,9 +940,9 @@ e
 e
 N
 i
-X
+s
 x
-y
+j
 i
 i
 i
@@ -969,9 +968,9 @@ b
 i
 i
 i
-X
+s
 x
-y
+j
 i
 N
 e
@@ -981,7 +980,7 @@ e
 N
 M
 b
-G
+Q
 b
 Y
 Y
@@ -1009,7 +1008,7 @@ Y
 Y
 Y
 b
-G
+Q
 b
 M
 N
@@ -1019,9 +1018,9 @@ e
 e
 N
 i
-Z
+u
 f
-j
+J
 i
 i
 i
@@ -1047,9 +1046,9 @@ b
 i
 i
 i
-Z
+u
 f
-j
+J
 i
 N
 e
@@ -1253,9 +1252,9 @@ e
 e
 N
 i
-X
+s
 x
-y
+j
 i
 i
 i
@@ -1281,9 +1280,9 @@ b
 i
 i
 i
-X
+s
 x
-y
+j
 i
 N
 e
@@ -1293,7 +1292,7 @@ e
 N
 M
 b
-G
+Q
 b
 i
 i
@@ -1321,7 +1320,7 @@ i
 i
 i
 b
-G
+Q
 b
 M
 N
@@ -1331,9 +1330,9 @@ e
 e
 N
 i
-Z
+u
 f
-j
+J
 i
 i
 i
@@ -1359,9 +1358,9 @@ o
 i
 i
 i
-Z
+u
 f
-j
+J
 i
 N
 e
@@ -1493,25 +1492,25 @@ r
 f
 f
 f
-u
+L
 Y
-U
+T
 f
 f
 f
 f
 f
-u
+L
 Y
-U
+T
 f
 f
 f
 f
 f
-u
+L
 Y
-U
+T
 f
 f
 f
@@ -1533,7 +1532,7 @@ a
 a
 a
 F
-G
+Q
 h
 a
 a
@@ -1541,7 +1540,7 @@ a
 a
 a
 F
-G
+Q
 h
 a
 a
@@ -1549,7 +1548,7 @@ a
 a
 a
 F
-G
+Q
 h
 a
 a
@@ -1571,25 +1570,25 @@ x
 x
 x
 x
-L
+y
 Y
-Q
+n
 x
 x
 x
 x
 x
-L
+y
 Y
-Q
+n
 x
 x
 x
 x
 x
-L
+y
 Y
-Q
+n
 x
 x
 x
