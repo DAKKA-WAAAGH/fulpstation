@@ -1,0 +1,2333 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aE" = (
+/obj/effect/turf_decal/trimline/red/corner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"aI" = (
+/obj/effect/turf_decal/trimline/prison/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/prison/mid_joiner{
+	dir = 8
+	},
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"bv" = (
+/obj/effect/turf_decal/trimline/blue/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/blue/mid_joiner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"bz" = (
+/obj/effect/turf_decal/trimline/neutral/corner,
+/obj/effect/turf_decal/trimline/white/corner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"ca" = (
+/obj/effect/turf_decal/trimline/yellow/line,
+/obj/effect/turf_decal/trimline/yellow/mid_joiner,
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"cx" = (
+/turf/closed/indestructible/syndicate,
+/area/deathmatch/fullbright)
+"cy" = (
+/obj/effect/turf_decal/trimline/yellow/line,
+/obj/effect/turf_decal/trimline/yellow/mid_joiner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"dm" = (
+/obj/effect/turf_decal/trimline/purple/corner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"dS" = (
+/obj/effect/turf_decal/trimline/red/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/red/mid_joiner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"eN" = (
+/obj/effect/turf_decal/trimline/green/corner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"eY" = (
+/obj/effect/turf_decal/trimline/dark_green/corner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"gs" = (
+/obj/effect/turf_decal/trimline/yellow/corner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"gU" = (
+/obj/effect/turf_decal/trimline/dark_green/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/dark_green/mid_joiner{
+	dir = 8
+	},
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"hf" = (
+/obj/effect/turf_decal/trimline/blue/corner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"hs" = (
+/obj/effect/turf_decal/trimline/prison/corner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"hU" = (
+/obj/effect/turf_decal/trimline/prison/line,
+/obj/effect/turf_decal/trimline/prison/mid_joiner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"ix" = (
+/obj/effect/turf_decal/trimline/dark_blue/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/dark_blue/mid_joiner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"iI" = (
+/obj/effect/turf_decal/trimline/green/line,
+/obj/effect/turf_decal/trimline/green/mid_joiner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"iN" = (
+/obj/structure/table/reinforced/plastitaniumglass,
+/obj/item/melee/supermatter_sword,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"iY" = (
+/obj/structure/mineral_door/gold,
+/obj/structure/barricade/wooden/crude,
+/obj/structure/barricade/wooden/crude,
+/obj/structure/barricade/wooden/crude,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"jb" = (
+/obj/effect/turf_decal/trimline/green/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/green/mid_joiner{
+	dir = 1
+	},
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"jn" = (
+/obj/effect/turf_decal/trimline/prison/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/prison/mid_joiner{
+	dir = 4
+	},
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"jq" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/neutral/mid_joiner{
+	dir = 1
+	},
+/obj/effect/turf_decal/arrows/white,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"kb" = (
+/obj/effect/turf_decal/trimline/green/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/green/mid_joiner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"kB" = (
+/obj/effect/turf_decal/trimline/green/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/green/mid_joiner{
+	dir = 4
+	},
+/obj/effect/turf_decal/arrows/white{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"lk" = (
+/obj/effect/turf_decal/trimline/blue/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/blue/mid_joiner{
+	dir = 4
+	},
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"lm" = (
+/obj/effect/turf_decal/trimline/red/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/red/mid_joiner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"ln" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/neutral/mid_joiner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"lr" = (
+/obj/effect/turf_decal/trimline/dark_green/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark_green/mid_joiner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"lu" = (
+/obj/effect/turf_decal/trimline/prison/corner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"mI" = (
+/obj/effect/turf_decal/trimline/blue/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/blue/mid_joiner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"nv" = (
+/obj/effect/turf_decal/trimline/green/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/green/mid_joiner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"nz" = (
+/obj/effect/turf_decal/trimline/purple/corner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"nA" = (
+/obj/effect/turf_decal/trimline/prison/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/prison/mid_joiner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"nI" = (
+/obj/effect/turf_decal/trimline/neutral/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/white/corner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"nS" = (
+/obj/effect/turf_decal/trimline/neutral/corner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"nV" = (
+/obj/structure/window/reinforced/plasma/spawner/directional/east,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"oi" = (
+/obj/effect/turf_decal/trimline/dark_green/corner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"rp" = (
+/obj/effect/turf_decal/trimline/dark_blue/corner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"rK" = (
+/obj/effect/turf_decal/trimline/red/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/red/mid_joiner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"rS" = (
+/obj/effect/turf_decal/trimline/blue/corner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"ua" = (
+/obj/effect/turf_decal/trimline/yellow/corner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"uD" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/neutral/mid_joiner{
+	dir = 4
+	},
+/obj/effect/turf_decal/arrows/white{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"vK" = (
+/obj/effect/turf_decal/trimline/red/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/red/mid_joiner{
+	dir = 8
+	},
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"vO" = (
+/obj/effect/turf_decal/trimline/dark_green/corner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"wa" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/neutral/mid_joiner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"wP" = (
+/obj/effect/turf_decal/trimline/dark_blue/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark_blue/mid_joiner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"xb" = (
+/obj/effect/turf_decal/trimline/purple/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/purple/mid_joiner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"xL" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/neutral/mid_joiner{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/white/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/white/mid_joiner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"ya" = (
+/obj/effect/turf_decal/trimline/blue/corner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"zs" = (
+/turf/template_noop,
+/area/template_noop)
+"zA" = (
+/obj/effect/turf_decal/trimline/purple/corner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"zN" = (
+/obj/effect/turf_decal/trimline/dark_blue/corner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"zY" = (
+/obj/effect/turf_decal/trimline/green/corner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Au" = (
+/obj/effect/turf_decal/trimline/dark_blue/corner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"AB" = (
+/obj/structure/mineral_door/silver,
+/obj/structure/barricade/wooden/crude,
+/obj/structure/barricade/wooden/crude,
+/obj/structure/barricade/wooden/crude,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"AQ" = (
+/obj/effect/turf_decal/trimline/purple/line,
+/obj/effect/turf_decal/trimline/purple/mid_joiner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"AV" = (
+/obj/effect/turf_decal/trimline/purple/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/purple/mid_joiner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"BD" = (
+/obj/effect/turf_decal/trimline/prison/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/prison/mid_joiner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Ci" = (
+/obj/effect/turf_decal/trimline/red/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/red/mid_joiner{
+	dir = 4
+	},
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Cm" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/neutral/mid_joiner{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/white/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/white/mid_joiner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"CC" = (
+/obj/effect/turf_decal/trimline/blue/corner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Da" = (
+/obj/effect/turf_decal/trimline/dark_blue/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark_blue/mid_joiner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Dg" = (
+/obj/effect/turf_decal/trimline/dark_blue/line,
+/obj/effect/turf_decal/trimline/dark_blue/mid_joiner,
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"DP" = (
+/obj/effect/turf_decal/trimline/red/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/red/mid_joiner{
+	dir = 1
+	},
+/obj/effect/turf_decal/arrows/white,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"EF" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/neutral/mid_joiner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"ES" = (
+/obj/effect/turf_decal/trimline/red/corner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Fu" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/neutral/mid_joiner{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/white/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/white/mid_joiner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"FN" = (
+/obj/effect/turf_decal/trimline/neutral/corner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Gj" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/neutral/mid_joiner{
+	dir = 8
+	},
+/obj/effect/turf_decal/arrows/white{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Gm" = (
+/obj/effect/turf_decal/trimline/purple/line,
+/obj/effect/turf_decal/trimline/purple/mid_joiner,
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"GC" = (
+/obj/effect/turf_decal/trimline/purple/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/purple/mid_joiner{
+	dir = 8
+	},
+/obj/effect/turf_decal/arrows/white{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"GJ" = (
+/obj/effect/turf_decal/trimline/neutral/line,
+/obj/effect/turf_decal/trimline/neutral/mid_joiner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"GT" = (
+/obj/structure/window/reinforced/plasma/spawner/directional/south,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"GU" = (
+/obj/effect/turf_decal/trimline/neutral/line,
+/obj/effect/turf_decal/trimline/neutral/mid_joiner,
+/obj/effect/turf_decal/trimline/white/line,
+/obj/effect/turf_decal/trimline/white/mid_joiner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Hc" = (
+/obj/effect/turf_decal/trimline/dark_blue/corner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"HW" = (
+/obj/effect/turf_decal/trimline/red/corner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"IV" = (
+/obj/effect/turf_decal/trimline/yellow/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/yellow/mid_joiner{
+	dir = 1
+	},
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Jk" = (
+/obj/effect/turf_decal/trimline/prison/corner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"JI" = (
+/obj/effect/turf_decal/trimline/dark_green/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/dark_green/mid_joiner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Ku" = (
+/obj/effect/turf_decal/trimline/prison/corner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Lm" = (
+/obj/effect/turf_decal/trimline/dark_green/corner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"LX" = (
+/obj/effect/turf_decal/trimline/dark_green/line,
+/obj/effect/turf_decal/trimline/dark_green/mid_joiner,
+/obj/effect/turf_decal/arrows/white{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Mh" = (
+/obj/effect/turf_decal/trimline/green/corner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"MY" = (
+/obj/effect/turf_decal/trimline/neutral/line,
+/obj/effect/turf_decal/trimline/neutral/mid_joiner,
+/obj/effect/turf_decal/arrows/white{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Nw" = (
+/obj/effect/turf_decal/trimline/dark_green/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark_green/mid_joiner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"NM" = (
+/obj/effect/turf_decal/trimline/dark_green/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark_green/mid_joiner{
+	dir = 4
+	},
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"NW" = (
+/obj/effect/turf_decal/trimline/green/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/green/mid_joiner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Pp" = (
+/obj/effect/turf_decal/trimline/blue/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/blue/mid_joiner{
+	dir = 8
+	},
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Px" = (
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"PA" = (
+/obj/effect/turf_decal/trimline/neutral/corner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"PG" = (
+/obj/effect/turf_decal/trimline/purple/corner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"PW" = (
+/obj/effect/turf_decal/trimline/neutral/corner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"PZ" = (
+/obj/structure/window/reinforced/plasma/spawner/directional/north,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Qj" = (
+/obj/effect/turf_decal/trimline/neutral/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/white/corner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Qn" = (
+/obj/effect/turf_decal/trimline/purple/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/purple/mid_joiner{
+	dir = 1
+	},
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"QG" = (
+/obj/effect/turf_decal/trimline/neutral/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/white/corner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"QJ" = (
+/obj/effect/turf_decal/trimline/blue/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/blue/mid_joiner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"QP" = (
+/obj/effect/turf_decal/trimline/green/line,
+/obj/effect/turf_decal/trimline/green/mid_joiner,
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"RQ" = (
+/obj/effect/turf_decal/trimline/blue/line,
+/obj/effect/turf_decal/trimline/blue/mid_joiner,
+/obj/effect/turf_decal/arrows/white{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Sh" = (
+/obj/effect/turf_decal/trimline/dark_blue/line,
+/obj/effect/turf_decal/trimline/dark_blue/mid_joiner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Sm" = (
+/obj/effect/turf_decal/trimline/dark_blue/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark_blue/mid_joiner{
+	dir = 1
+	},
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"SG" = (
+/obj/effect/turf_decal/trimline/yellow/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/yellow/mid_joiner{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"SV" = (
+/obj/effect/turf_decal/trimline/purple/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/purple/mid_joiner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Tc" = (
+/obj/effect/turf_decal/trimline/yellow/corner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"VL" = (
+/obj/effect/turf_decal/trimline/red/line,
+/obj/effect/turf_decal/trimline/red/mid_joiner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"VS" = (
+/obj/effect/turf_decal/trimline/prison/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/prison/mid_joiner{
+	dir = 1
+	},
+/obj/effect/turf_decal/arrows/white,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"We" = (
+/obj/effect/spawner/structure/window/reinforced/plasma,
+/turf/open/indestructible/plating,
+/area/deathmatch/fullbright)
+"Wi" = (
+/obj/effect/turf_decal/trimline/red/corner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"WB" = (
+/obj/effect/turf_decal/trimline/yellow/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/yellow/mid_joiner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Xj" = (
+/obj/effect/turf_decal/trimline/yellow/corner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Xp" = (
+/obj/effect/turf_decal/trimline/yellow/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/yellow/mid_joiner{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"XE" = (
+/obj/effect/turf_decal/trimline/dark_green/line,
+/obj/effect/turf_decal/trimline/dark_green/mid_joiner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Yj" = (
+/obj/effect/turf_decal/trimline/green/corner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Yn" = (
+/obj/effect/turf_decal/trimline/prison/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/prison/mid_joiner{
+	dir = 1
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Zo" = (
+/obj/structure/window/reinforced/plasma/spawner/directional/west,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"Zr" = (
+/obj/effect/turf_decal/trimline/yellow/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/yellow/mid_joiner{
+	dir = 4
+	},
+/obj/effect/turf_decal/arrows/white{
+	dir = 8
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"ZB" = (
+/obj/effect/turf_decal/trimline/blue/line,
+/obj/effect/turf_decal/trimline/blue/mid_joiner,
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+"ZD" = (
+/obj/effect/turf_decal/trimline/dark_blue/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/dark_blue/mid_joiner{
+	dir = 8
+	},
+/obj/effect/turf_decal/arrows/white{
+	dir = 4
+	},
+/turf/open/indestructible/dark/smooth_large,
+/area/deathmatch/fullbright)
+
+(1,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(2,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+PG
+SV
+SV
+SV
+dm
+cx
+Au
+Da
+Da
+Da
+zN
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(3,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+AQ
+Px
+Px
+Px
+AV
+cx
+Sh
+Px
+Px
+Px
+wP
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(4,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+Gm
+Px
+Px
+Px
+Qn
+cx
+Dg
+Px
+Px
+Px
+Sm
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(5,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+AQ
+Px
+Px
+Px
+AV
+cx
+Sh
+Px
+Px
+Px
+wP
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(6,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+zA
+xb
+GC
+xb
+nz
+cx
+rp
+ix
+ZD
+ix
+Hc
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(7,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+cx
+We
+AB
+We
+cx
+cx
+cx
+We
+AB
+We
+cx
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(8,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+PW
+ln
+ln
+ln
+ln
+ln
+ln
+ln
+ln
+ln
+nS
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(9,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+GJ
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+wa
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(10,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+GJ
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+wa
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(11,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+GJ
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+wa
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(12,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+FN
+EF
+EF
+EF
+EF
+Gj
+EF
+EF
+EF
+EF
+PA
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(13,1,1) = {"
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+We
+iY
+We
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+"}
+(14,1,1) = {"
+cx
+Wi
+dS
+Ci
+dS
+HW
+cx
+PW
+ln
+ln
+ln
+nS
+cx
+bz
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+xL
+nI
+cx
+PW
+ln
+ln
+ln
+nS
+cx
+rS
+bv
+lk
+bv
+ya
+cx
+"}
+(15,1,1) = {"
+cx
+VL
+Px
+Px
+Px
+rK
+We
+GJ
+Px
+Px
+Px
+wa
+cx
+GU
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Fu
+cx
+GJ
+Px
+Px
+Px
+wa
+We
+ZB
+Px
+Px
+Px
+mI
+cx
+"}
+(16,1,1) = {"
+cx
+VL
+Px
+Px
+Px
+DP
+AB
+GJ
+Px
+Px
+Px
+wa
+cx
+GU
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Fu
+cx
+GJ
+Px
+Px
+Px
+wa
+AB
+RQ
+Px
+Px
+Px
+mI
+cx
+"}
+(17,1,1) = {"
+cx
+VL
+Px
+Px
+Px
+rK
+We
+GJ
+Px
+Px
+Px
+wa
+cx
+GU
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Fu
+cx
+GJ
+Px
+Px
+Px
+wa
+We
+ZB
+Px
+Px
+Px
+mI
+cx
+"}
+(18,1,1) = {"
+cx
+ES
+lm
+vK
+lm
+aE
+cx
+GJ
+Px
+Px
+Px
+wa
+We
+GU
+Px
+Px
+Px
+Px
+nV
+Px
+Px
+Px
+Px
+Fu
+We
+GJ
+Px
+Px
+Px
+wa
+cx
+CC
+QJ
+Pp
+QJ
+hf
+cx
+"}
+(19,1,1) = {"
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+GJ
+Px
+Px
+Px
+jq
+iY
+GU
+Px
+Px
+Px
+GT
+iN
+PZ
+Px
+Px
+Px
+Fu
+iY
+MY
+Px
+Px
+Px
+wa
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+"}
+(20,1,1) = {"
+cx
+hs
+nA
+jn
+nA
+Jk
+cx
+GJ
+Px
+Px
+Px
+wa
+We
+GU
+Px
+Px
+Px
+Px
+Zo
+Px
+Px
+Px
+Px
+Fu
+We
+GJ
+Px
+Px
+Px
+wa
+cx
+vO
+lr
+NM
+lr
+oi
+cx
+"}
+(21,1,1) = {"
+cx
+hU
+Px
+Px
+Px
+Yn
+We
+GJ
+Px
+Px
+Px
+wa
+cx
+GU
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Fu
+cx
+GJ
+Px
+Px
+Px
+wa
+We
+XE
+Px
+Px
+Px
+Nw
+cx
+"}
+(22,1,1) = {"
+cx
+hU
+Px
+Px
+Px
+VS
+AB
+GJ
+Px
+Px
+Px
+wa
+cx
+GU
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Fu
+cx
+GJ
+Px
+Px
+Px
+wa
+AB
+LX
+Px
+Px
+Px
+Nw
+cx
+"}
+(23,1,1) = {"
+cx
+hU
+Px
+Px
+Px
+Yn
+We
+GJ
+Px
+Px
+Px
+wa
+cx
+GU
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Fu
+cx
+GJ
+Px
+Px
+Px
+wa
+We
+XE
+Px
+Px
+Px
+Nw
+cx
+"}
+(24,1,1) = {"
+cx
+Ku
+BD
+aI
+BD
+lu
+cx
+FN
+EF
+EF
+EF
+PA
+cx
+QG
+Cm
+Cm
+Cm
+Cm
+Cm
+Cm
+Cm
+Cm
+Cm
+Qj
+cx
+FN
+EF
+EF
+EF
+PA
+cx
+eY
+JI
+gU
+JI
+Lm
+cx
+"}
+(25,1,1) = {"
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+We
+iY
+We
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+"}
+(26,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+PW
+ln
+ln
+ln
+ln
+uD
+ln
+ln
+ln
+ln
+nS
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(27,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+GJ
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+wa
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(28,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+GJ
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+wa
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(29,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+GJ
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+Px
+wa
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(30,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+FN
+EF
+EF
+EF
+EF
+EF
+EF
+EF
+EF
+EF
+PA
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(31,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+cx
+We
+AB
+We
+cx
+cx
+cx
+We
+AB
+We
+cx
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(32,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+gs
+Xp
+Zr
+Xp
+Xj
+cx
+Yj
+NW
+kB
+NW
+eN
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(33,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+cy
+Px
+Px
+Px
+WB
+cx
+iI
+Px
+Px
+Px
+kb
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(34,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+ca
+Px
+Px
+Px
+IV
+cx
+QP
+Px
+Px
+Px
+jb
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(35,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+cy
+Px
+Px
+Px
+WB
+cx
+iI
+Px
+Px
+Px
+kb
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(36,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+ua
+SG
+SG
+SG
+Tc
+cx
+Mh
+nv
+nv
+nv
+zY
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
+(37,1,1) = {"
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+cx
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+zs
+"}
