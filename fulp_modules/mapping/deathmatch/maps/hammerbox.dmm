@@ -104,7 +104,11 @@
 /turf/open/floor/engine/cult,
 /area/deathmatch/fullbright)
 "M" = (
-/obj/machinery/field/generator/starts_on,
+/obj/machinery/field/generator/starts_on{
+	active_power_usage = 0;
+	idle_power_usage = 0;
+	power = 9999
+	},
 /turf/open/floor/engine/cult,
 /area/deathmatch/fullbright)
 "N" = (
