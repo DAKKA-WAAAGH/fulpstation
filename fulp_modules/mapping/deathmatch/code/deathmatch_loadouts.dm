@@ -17,6 +17,12 @@
 	suit = /obj/item/clothing/suit/wizrobe/magusblue
 	shoes = /obj/item/clothing/shoes/sandal/magic
 	r_hand = /obj/item/mjollnir
+	
+	implants = /obj/item/organ/internal/cyberimp/brain/anti_drop
+	granted_spells = (
+	/datum/action/cooldown/spell/summonitem,
+	/datum/action/cooldown/spell/forcewall,
+	)
 
 /datum/outfit/deathmatch_loadout/hammerboxred
 	name = "Deathmatch: Red Apprentice"
@@ -27,3 +33,9 @@
 	suit = /obj/item/clothing/suit/wizrobe/magusred
 	shoes = /obj/item/clothing/shoes/sandal/magic
 	r_hand = /obj/item/mjollnir
+
+	implants = /obj/item/organ/internal/cyberimp/brain/anti_drop
+	granted_spells = (
+	/datum/action/cooldown/spell/summonitem,
+	/datum/action/cooldown/spell/forcewall,
+	)
