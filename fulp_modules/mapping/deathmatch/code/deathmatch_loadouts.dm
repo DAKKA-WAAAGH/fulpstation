@@ -19,7 +19,7 @@
 	r_hand = /obj/item/mjollnir
 	
 	implants = /obj/item/organ/internal/cyberimp/brain/anti_drop
-	granted_spells = (
+	granted_spells = list(
 	/datum/action/cooldown/spell/summonitem,
 	/datum/action/cooldown/spell/forcewall,
 	)
@@ -35,7 +35,7 @@
 	r_hand = /obj/item/mjollnir
 
 	implants = /obj/item/organ/internal/cyberimp/brain/anti_drop
-	granted_spells = (
+	granted_spells = list(
 	/datum/action/cooldown/spell/summonitem,
 	/datum/action/cooldown/spell/forcewall,
 	)
