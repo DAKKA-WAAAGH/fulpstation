@@ -1,0 +1,827 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"b" = (
+/mob/living/basic/ghost/swarm,
+/obj/structure/closet/crate/coffin,
+/obj/item/chainsaw/doomslayer,
+/turf/open/indestructible/stone,
+/area/deathmatch/fullbright)
+"c" = (
+/obj/structure/closet/crate/grave{
+	icon_state = "grave_lead";
+	name = "Grave"
+	},
+/obj/effect/mob_spawn/corpse/human/prisoner,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"e" = (
+/obj/structure/closet/crate/grave{
+	icon_state = "grave_lead";
+	name = "Grave"
+	},
+/obj/effect/mob_spawn/corpse/human/russian,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"f" = (
+/obj/structure/statue/sandstone/venus,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"l" = (
+/obj/structure/closet/crate/grave{
+	icon_state = "grave_lead";
+	name = "Grave"
+	},
+/obj/effect/landmark/deathmatch_player_spawn,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"n" = (
+/obj/structure/fence{
+	dir = 4
+	},
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"o" = (
+/obj/structure/closet/crate/grave{
+	icon_state = "grave_lead";
+	name = "Grave"
+	},
+/obj/item/bouquet/sunflower,
+/obj/effect/mob_spawn/corpse/human/wizard,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"s" = (
+/obj/structure/mineral_door/iron,
+/obj/structure/barricade/wooden/crude,
+/turf/open/indestructible/stone,
+/area/deathmatch/fullbright)
+"y" = (
+/obj/machinery/jukebox,
+/turf/open/misc/dirt,
+/area/deathmatch/fullbright)
+"z" = (
+/turf/closed/indestructible/iron,
+/area/deathmatch/fullbright)
+"A" = (
+/obj/structure/statue/sandstone/venus{
+	dir = 1
+	},
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"B" = (
+/turf/open/indestructible/stone,
+/area/deathmatch/fullbright)
+"C" = (
+/obj/item/shovel,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"F" = (
+/obj/structure/closet/crate/grave{
+	icon_state = "grave_lead";
+	name = "Grave"
+	},
+/obj/item/bouquet/rose,
+/obj/effect/mob_spawn/corpse/human/skeleton,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"G" = (
+/obj/structure/closet/crate/grave{
+	icon_state = "grave_lead";
+	name = "Grave"
+	},
+/obj/effect/mob_spawn/corpse/human/miner,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"H" = (
+/obj/structure/closet/crate/grave{
+	icon_state = "grave_lead";
+	name = "Grave"
+	},
+/obj/effect/mob_spawn/corpse/human/engineer,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"I" = (
+/obj/structure/closet/crate/grave{
+	icon_state = "grave_lead";
+	name = "Grave"
+	},
+/obj/effect/mob_spawn/corpse/human/roboticist,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"J" = (
+/obj/effect/decal/cleanable/rubble,
+/obj/effect/decal/cleanable/molten_object/large,
+/turf/open/indestructible/stone,
+/area/deathmatch/fullbright)
+"K" = (
+/obj/structure/closet/crate/coffin,
+/obj/item/claymore,
+/obj/item/clothing/head/helmet/chaplain,
+/obj/effect/mob_spawn/corpse/human/skeleton,
+/turf/open/indestructible/stone,
+/area/deathmatch/fullbright)
+"O" = (
+/obj/structure/closet/crate/grave{
+	icon_state = "grave_lead";
+	name = "Grave"
+	},
+/obj/effect/mob_spawn/corpse/human/doctor,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"Q" = (
+/obj/structure/closet/crate/grave{
+	icon_state = "grave_lead";
+	name = "Grave"
+	},
+/obj/item/bouquet/sunflower,
+/obj/effect/mob_spawn/corpse/human/skeleton,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"R" = (
+/obj/structure/closet/crate/grave{
+	icon_state = "grave_lead";
+	name = "Grave"
+	},
+/obj/effect/mob_spawn/corpse/human/pirate,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"S" = (
+/obj/structure/closet/crate/coffin,
+/obj/effect/mob_spawn/corpse/human/skeleton,
+/turf/open/indestructible/stone,
+/area/deathmatch/fullbright)
+"T" = (
+/obj/structure/fence/door,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"V" = (
+/obj/structure/closet/crate/grave{
+	icon_state = "grave_lead";
+	name = "Grave"
+	},
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+"W" = (
+/mob/living/basic/ghost/swarm,
+/turf/open/indestructible/stone,
+/area/deathmatch/fullbright)
+"Y" = (
+/turf/open/misc/dirt,
+/area/deathmatch/fullbright)
+"Z" = (
+/obj/structure/closet/crate/grave{
+	icon_state = "grave_lead";
+	name = "Grave"
+	},
+/obj/item/bouquet/poppy,
+/obj/effect/mob_spawn/corpse/human/skeleton,
+/turf/open/misc/grass/jungle,
+/area/deathmatch/fullbright)
+
+(1,1,1) = {"
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+"}
+(2,1,1) = {"
+z
+a
+a
+a
+a
+a
+a
+a
+n
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+Y
+Y
+Y
+a
+a
+a
+a
+a
+a
+a
+a
+a
+z
+"}
+(3,1,1) = {"
+z
+a
+a
+a
+a
+a
+a
+a
+T
+a
+a
+o
+a
+V
+a
+l
+a
+Z
+a
+Y
+Y
+Y
+a
+l
+a
+c
+a
+Q
+a
+V
+a
+z
+"}
+(4,1,1) = {"
+z
+a
+a
+z
+z
+z
+z
+z
+z
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+Y
+Y
+Y
+a
+a
+a
+a
+a
+a
+a
+a
+a
+z
+"}
+(5,1,1) = {"
+z
+a
+a
+z
+B
+B
+B
+B
+z
+a
+a
+V
+a
+G
+a
+V
+a
+l
+a
+Y
+Y
+Y
+a
+V
+a
+V
+a
+l
+a
+O
+a
+z
+"}
+(6,1,1) = {"
+z
+a
+a
+z
+K
+B
+B
+K
+z
+f
+a
+a
+a
+a
+a
+a
+a
+a
+a
+Y
+Y
+Y
+a
+a
+a
+a
+a
+a
+a
+a
+a
+z
+"}
+(7,1,1) = {"
+z
+a
+a
+z
+B
+B
+B
+B
+z
+C
+a
+V
+a
+l
+a
+Q
+a
+V
+a
+Y
+Y
+Y
+a
+V
+a
+Z
+a
+V
+a
+l
+a
+z
+"}
+(8,1,1) = {"
+z
+z
+J
+z
+S
+B
+B
+S
+z
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+Y
+Y
+Y
+a
+a
+a
+a
+a
+a
+a
+a
+a
+z
+"}
+(9,1,1) = {"
+z
+W
+W
+z
+B
+B
+B
+B
+z
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+z
+"}
+(10,1,1) = {"
+z
+b
+W
+s
+B
+B
+B
+B
+s
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+z
+"}
+(11,1,1) = {"
+z
+W
+W
+z
+B
+B
+B
+B
+z
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+z
+"}
+(12,1,1) = {"
+z
+z
+J
+z
+S
+B
+B
+S
+z
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+Y
+Y
+Y
+a
+a
+a
+a
+a
+a
+a
+a
+a
+z
+"}
+(13,1,1) = {"
+z
+a
+a
+z
+B
+B
+B
+B
+z
+C
+a
+V
+a
+V
+a
+V
+a
+l
+a
+Y
+Y
+Y
+a
+l
+a
+F
+a
+V
+a
+l
+a
+z
+"}
+(14,1,1) = {"
+z
+a
+a
+z
+K
+B
+B
+K
+z
+A
+a
+a
+a
+a
+a
+a
+a
+a
+a
+Y
+Y
+Y
+a
+a
+a
+a
+a
+a
+a
+a
+a
+z
+"}
+(15,1,1) = {"
+z
+a
+a
+z
+B
+B
+B
+B
+z
+a
+a
+l
+a
+Z
+a
+R
+a
+V
+a
+Y
+Y
+Y
+a
+V
+a
+V
+a
+e
+a
+Q
+a
+z
+"}
+(16,1,1) = {"
+z
+a
+a
+z
+z
+z
+z
+z
+z
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+Y
+Y
+Y
+a
+a
+a
+a
+a
+a
+a
+a
+a
+z
+"}
+(17,1,1) = {"
+z
+a
+a
+a
+a
+a
+a
+a
+T
+a
+a
+H
+a
+V
+a
+l
+a
+Q
+a
+Y
+Y
+Y
+a
+I
+a
+l
+a
+V
+a
+V
+a
+z
+"}
+(18,1,1) = {"
+z
+a
+a
+a
+a
+a
+a
+a
+n
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+Y
+Y
+Y
+a
+a
+a
+a
+a
+a
+a
+a
+a
+z
+"}
+(19,1,1) = {"
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+"}
